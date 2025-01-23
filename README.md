@@ -19,7 +19,9 @@ Configure o ambiente
 Execute a aplicação
 
 📦 Como Usar
-[O usuário deverá adicionar os nomes na caixa de texto e apertar em "Adicionar", onde será criada uma lista visível. Após a inserção dos nomes, você apertará o botão "Sortear Amigo", onde um nome será sorteado de forma aleatória e exibido na tela.]
+
+Você deverá adicionar os nomes na caixa de texto e apertar em "Adicionar", onde será criada uma lista visível. Após a inserção dos nomes, você apertará o botão "Sortear Amigo", onde um nome será sorteado de forma aleatória e exibido na tela.
+
 🤝 Contribuindo
 
 Faça fork do projeto
@@ -29,4 +31,4 @@ Push para a branch
 Abra um Pull Request
 
 📞 Contato
-[Rodrigo Tuji]
+Rodrigo Tuji
