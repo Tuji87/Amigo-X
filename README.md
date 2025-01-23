@@ -1,4 +1,4 @@
-# Amigo X
+# Final Destination X
 📌 Sobre o Projeto
 Amigo X é uma aplicação para sorteio de nomes para amigo secreto, simplificando o processo de distribuição de participantes.
 🚀 Funcionalidades
