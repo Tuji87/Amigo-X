@@ -9,7 +9,7 @@ Distribuição aleatória de pares
 
 💻 Tecnologias Utilizadas
 
-[HTML, CSS, JS, GIT]
+HTML, CSS, JS, GIT
 
 🔧 Instalação
 
@@ -31,4 +31,5 @@ Push para a branch
 Abra um Pull Request
 
 📞 Contato
+
 Rodrigo Tuji
